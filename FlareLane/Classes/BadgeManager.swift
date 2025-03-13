@@ -5,7 +5,7 @@
 //  Copyright © 2024 FlareLabs. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 class BadgeManager {
   static private let badgeEnabledKey = "FlareLaneBadgeEnabled"

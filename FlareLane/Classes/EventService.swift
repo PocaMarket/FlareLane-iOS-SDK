@@ -5,7 +5,7 @@
 //  Copyright © 2021 FlareLabs. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 class EventService {
   /// Processed when notification is clicked

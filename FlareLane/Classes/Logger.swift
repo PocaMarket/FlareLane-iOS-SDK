@@ -5,7 +5,7 @@
 //  Copyright © 2021 FlareLabs. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 @objc public enum LogLevel: IntegerLiteralType {
   case none = 0

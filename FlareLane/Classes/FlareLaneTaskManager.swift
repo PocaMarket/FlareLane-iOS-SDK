@@ -5,6 +5,8 @@
 //  Created by MinHyeok Kim on 8/14/24.
 //
 
+import UIKit
+
 class FlareLaneTaskManager {
   static let shared = FlareLaneTaskManager()
   

@@ -5,7 +5,7 @@
 //  Copyright © 2024 FlareLabs. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 class Throttler {
   private var lastActionTime: Date = .distantPast

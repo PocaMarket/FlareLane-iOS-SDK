@@ -5,7 +5,7 @@
 //  Created by MinHyeok Kim on 12/28/23.
 //
 
-import Foundation
+import UIKit
 
 @objc open class FlareLaneDevice: NSObject {
   // In case of structure, it is difficult to be compatible with Objective-C
